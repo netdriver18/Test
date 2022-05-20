@@ -1,4 +1,4 @@
-package Robot;
+package Object.Robot;
 
 public class RobotCoocker extends Robot
 {

@@ -1,4 +1,4 @@
-package Robot;
+package Object.Robot;
 
 public class main {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Robot;
+package Object.Robot;
 
  class CoffeRobot extends Robot {
      @Override
