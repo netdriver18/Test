@@ -1,11 +1,12 @@
 package ObjectRectangle;
 
 public class Rectangle {
-
+  public double s;
+  public double p;
 
     public  Rectangle(double r, double d){
-        double s = (r*d);
-        double p = 2*(r+d);
+        s = (r*d);
+        p = 2*(r+d);
      System.out.println("Площа прямокутника = "+s);
      System.out.println("Периметр прямокутника = "+p);
     }
