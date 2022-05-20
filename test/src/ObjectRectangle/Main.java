@@ -11,6 +11,8 @@ public class Main {
        System.out.println("Введіть довжину прямокутника :");
        double b = sc.nextDouble();
        Rectangle rec = new Rectangle(a,b);
+       rec.Plosha();
+       rec.Perimetr();
 
     }
 }

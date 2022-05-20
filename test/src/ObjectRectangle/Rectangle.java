@@ -1,17 +1,26 @@
 package ObjectRectangle;
 
 public class Rectangle {
-  public double s;
-  public double p;
+  public double s,p,a,b;
 
     public  Rectangle(double r, double d){
-        s = (r*d);
-        p = 2*(r+d);
-     System.out.println("Площа прямокутника = "+s);
-     System.out.println("Периметр прямокутника = "+p);
+
+        this.a = r;
+        this.b = d;
+
     }
     public  Rectangle(double r, double d, boolean color){
 
+    }
+
+    public void Plosha(){
+        this.s = this.a*this.b;
+        System.out.println("Площа прямокутника = "+this.s);
+    }
+
+    public void Perimetr(){
+        this.p = 2*(this.a+this.b);
+        System.out.println("Периметр прямокутника = "+p);
     }
 
     public  Rectangle(){

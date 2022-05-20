@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/ObjectRectangle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/ObjectRectangle/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/src/ObjectRectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/ObjectRectangle/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
