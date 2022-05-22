@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/test/src/ObjectRectangle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/ObjectRectangle/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/ObjectRectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/ObjectRectangle/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/InterfaceSecond/MyCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Interfaces/MainInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Interfaces/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Interfaces/Worker_fix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Interfaces/Worker_hour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/InterfacesFirst/Devide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/InterfacesFirst/Minus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/InterfacesFirst/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/InterfacesFirst/Numerable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/InterfacesFirst/Plus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -34,28 +44,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/backup/Idea/test/out/production/test",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/backup/Idea/test/out/production/test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\backup\Idea\test\out\production\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MyCalculator">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectRectangle.Main" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ObjectRectangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.MainInterface" />
+      <module name="Idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceSecond.MyCalculator" />
+      <module name="Idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfaceSecond.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,6 +127,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyCalculator" />
+        <item itemvalue="Application.MainInterface" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Object.Robot.main" />
         <item itemvalue="Application.ObjectWorker" />
@@ -163,6 +201,16 @@
           <url>file://$PROJECT_DIR$/test/src/Object/Robot/RobotCoocker.java</url>
           <line>6</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/src/InterfaceSecond/MyCalculator.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/src/InterfaceSecond/MyCalculator.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
