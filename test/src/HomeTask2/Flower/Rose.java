@@ -13,7 +13,7 @@ public class Rose extends Flower {
         return  color;
     }
 
-    public Double setPrice(){
+    public double setPrice(){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введіть ціну рози: ");
         price = scanner.nextDouble();
@@ -25,7 +25,7 @@ public class Rose extends Flower {
         return  color;
     }
 
-    public Double getPrice(){
+    public double getPrice(){
 
         return  price;
     }

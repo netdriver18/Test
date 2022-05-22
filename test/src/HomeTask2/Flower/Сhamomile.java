@@ -10,7 +10,7 @@ public class Сhamomile extends Flower{
         return  color;
     }
 
-    public Double setPrice(){
+    public double setPrice(){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введіть ціну ромашки: ");
         price = scanner.nextDouble();
@@ -22,7 +22,7 @@ public class Сhamomile extends Flower{
         return  color;
     }
 
-    public Double getPrice(){
+    public double getPrice(){
 
         return  price;
     }

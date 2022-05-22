@@ -4,7 +4,7 @@ import java.util.Currency;
 
 public class Flower {
     public String color;
-    public Double price;
+    public double price;
 
 
 

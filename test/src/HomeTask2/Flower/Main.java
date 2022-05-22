@@ -2,7 +2,7 @@ package HomeTask2.Flower;
 
 public class Main {
     public static void main(String[] args){
-        Double sumPrise = 0.0;
+        double sumPrise = 0.0;
         Rose rose = new Rose();
         rose.setColor();
        // rose.getColor();
