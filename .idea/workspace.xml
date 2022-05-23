@@ -1,167 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Array/Array0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Array/Array1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Array/Array18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Array/Array29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Case/case2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Case/case4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Case/case5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Case/fd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Case/gh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/FOR_/HW1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/FOR_/HW2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/FOR_/HW3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/FOR_/HW4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/FOR_/Series1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/FOR_DO_WHILE/HW38.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/FOR_DO_WHILE/While1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/FOR_DO_WHILE/for3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/FOR_DO_WHILE/while3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/FOR_DO_WHILE/while4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask1/ObjectClasses/ObjectWorker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask1/ObjectClasses/Worker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask1/ObjectRectangle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask1/ObjectRectangle/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask1/Robot/CoffeRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask1/Robot/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask1/Robot/RobotCoocker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask1/Robot/RobotDancer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask1/Robot/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/Flower/Flower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/Flower/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/Flower/Rose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/Flower/Tulip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/Flower/Сhamomile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/InterfaceSecond/MyCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/InterfacesFirst/Devide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/InterfacesFirst/Minus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/InterfacesFirst/Multiply.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/InterfacesFirst/Numerable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/InterfacesFirst/Plus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/Salary/MainInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/Salary/Salary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/Salary/Worker_fix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/HomeTask2/Salary/Worker_hour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Ifelse/if1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Lists/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Matrix/MX1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Matrix/MX18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Matrix/MX2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Matrix/MX23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Matrix/MX24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Matrix/MX3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Matrix/MX49.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Proc/Proc16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Proc/Proc18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Proc/Proc22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Proc/Proc24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/Recurs/Recurs1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/String/ST10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/String/ST13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/String/ST7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/Assignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/Bitwise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/Comparison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/Condition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/Escape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/FirstVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/Logic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/book/ifElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/inr/Pi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/inr/plosha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/inr/plosha2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Array/Array0.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Array/Array0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Array/Array1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Array/Array1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Array/Array18.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Array/Array18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Array/Array29.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Array/Array29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Case/case2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Case/case2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Case/case4.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Case/case4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Case/case5.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Case/case5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Case/fd.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Case/fd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Case/gh.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Case/gh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/FOR_/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/FOR_/HW1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/FOR_/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/FOR_/HW2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/FOR_/HW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/FOR_/HW3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/FOR_/HW4.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/FOR_/HW4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/FOR_/Series1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/FOR_/Series1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/FOR_DO_WHILE/HW38.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/FOR_DO_WHILE/HW38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/FOR_DO_WHILE/While1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/FOR_DO_WHILE/While1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/FOR_DO_WHILE/for3.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/FOR_DO_WHILE/for3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/FOR_DO_WHILE/while3.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/FOR_DO_WHILE/while3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/FOR_DO_WHILE/while4.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/FOR_DO_WHILE/while4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask1/ObjectClasses/ObjectWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask1/ObjectClasses/ObjectWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask1/ObjectClasses/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask1/ObjectClasses/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask1/ObjectRectangle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask1/ObjectRectangle/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask1/ObjectRectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask1/ObjectRectangle/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask1/Robot/CoffeRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask1/Robot/CoffeRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask1/Robot/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask1/Robot/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask1/Robot/RobotCoocker.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask1/Robot/RobotCoocker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask1/Robot/RobotDancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask1/Robot/RobotDancer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask1/Robot/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask1/Robot/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/Flower/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/Flower/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/Flower/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/Flower/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/Flower/Rose.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/Flower/Rose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/Flower/Tulip.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/Flower/Tulip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/Flower/Сhamomile.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/Flower/Сhamomile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/InterfaceSecond/MyCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/InterfaceSecond/MyCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/InterfacesFirst/Devide.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/InterfacesFirst/Devide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/InterfacesFirst/Minus.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/InterfacesFirst/Minus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/InterfacesFirst/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/InterfacesFirst/Multiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/InterfacesFirst/Numerable.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/InterfacesFirst/Numerable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/InterfacesFirst/Plus.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/InterfacesFirst/Plus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/Salary/MainInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/Salary/MainInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/Salary/Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/Salary/Salary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/Salary/Worker_fix.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/Salary/Worker_fix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HomeTask2/Salary/Worker_hour.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask2/Salary/Worker_hour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Ifelse/if1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Ifelse/if1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Lists/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Lists/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Matrix/MX1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Matrix/MX1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Matrix/MX18.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Matrix/MX18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Matrix/MX2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Matrix/MX2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Matrix/MX23.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Matrix/MX23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Matrix/MX24.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Matrix/MX24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Matrix/MX3.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Matrix/MX3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Matrix/MX49.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Matrix/MX49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Proc/Proc16.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Proc/Proc16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Proc/Proc18.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Proc/Proc18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Proc/Proc22.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Proc/Proc22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Proc/Proc24.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Proc/Proc24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Recurs/Recurs1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/Recurs/Recurs1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/String/ST10.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/String/ST10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/String/ST13.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/String/ST13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/String/ST7.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/String/ST7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/Assignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/Bitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/Comparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/Comparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/Condition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/Escape.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/Escape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/FirstVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/FirstVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/Logic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/book/ifElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/book/ifElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/inr/Pi.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/inr/Pi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/inr/plosha.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/inr/plosha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/inr/plosha2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Module1/inr/plosha2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/com/way2it/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/com/way2it/PloshaKvadrata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/com/way2it/PloshaTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/way2it/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/way2it/PloshaKvadrata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/way2it/PloshaTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,7 +54,7 @@
       <recent name="HomeTask2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Module2.HomeTask2.Flower.Main">
+  <component name="RunManager" selected="Application.Module2.HomeTask1.ObjectClasses.ObjectWorker">
     <configuration name="MainInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Module2.HomeTask2.Salary.MainInterface" />
       <module name="Idea" />
@@ -282,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Module2.HomeTask2.Flower.Main" />
         <item itemvalue="Application.Module2.HomeTask1.ObjectClasses.ObjectWorker" />
+        <item itemvalue="Application.Module2.HomeTask2.Flower.Main" />
         <item itemvalue="Application.Module2.HomeTask1.Robot.main" />
         <item itemvalue="Application.HomeTask2.InterfaceSecond.MyCalculator" />
         <item itemvalue="Application.HomeTask2.Salary.MainInterface" />
@@ -342,6 +182,15 @@
           </properties>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/src/Module2/HomeTask2/Salary/Worker_hour.java</url>
+          <line>9</line>
+          <properties class="Module2.HomeTask2.Salary.Worker_hour" method="ShowSalary">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/out/production/test/Lists/list1.class</url>
           <line>22</line>
@@ -359,12 +208,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/src/Module2/HomeTask2/Flower/Main.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/src/Module2/HomeTask2/Flower/Main.java</url>
-          <line>24</line>
+          <line>21</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>

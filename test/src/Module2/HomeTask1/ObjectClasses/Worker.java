@@ -4,9 +4,9 @@ public class Worker {
    private String name;
   // private String position;
 
-public Worker(String name){
-
-}
+  public Worker(String name){
+       this.name = name;
+  }
     public void setAge(int age){
         this.age = age;
     }
@@ -19,7 +19,7 @@ public Worker(String name){
     }
 
     public String getName() {
-        return name;
+        return this.name;
     }
 }
 
