@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="" />
+    <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask3/Humen/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask3/Humen/IncorrectEmailException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask3/Humen/MaimHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Module2/HomeTask3/Humen/UnderAgeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Idea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Idea.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,35 +39,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/backup/Idea/test/out/production/test&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/backup/Idea/test/out/production/test",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\backup\Idea\test\out\production\test" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Module2.HomeTask3.Humen" />
       <recent name="Module2" />
       <recent name="Module1" />
       <recent name="HomeTask2.Flower" />
       <recent name="HomeTask1" />
-      <recent name="HomeTask2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Module2.HomeTask1.ObjectClasses.ObjectWorker">
-    <configuration name="MainInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Module2.HomeTask2.Salary.MainInterface" />
+  <component name="RunManager" selected="Application.Module2.HomeTask3.Humen.MaimHuman">
+    <configuration name="MaimHuman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Module2.HomeTask3.Humen.Humen.MaimHuman" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Module2.HomeTask2.Salary.*" />
+          <option name="PATTERN" value="Module2.HomeTask3.Humen.Humen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +133,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Module2.HomeTask3.Humen.MaimHuman" />
         <item itemvalue="Application.Module2.HomeTask1.ObjectClasses.ObjectWorker" />
         <item itemvalue="Application.Module2.HomeTask2.Flower.Main" />
         <item itemvalue="Application.Module2.HomeTask1.Robot.main" />
-        <item itemvalue="Application.HomeTask2.InterfaceSecond.MyCalculator" />
-        <item itemvalue="Application.HomeTask2.Salary.MainInterface" />
       </list>
     </recent_temporary>
   </component>
