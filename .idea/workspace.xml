@@ -2,18 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="Added home task 3">
-      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_06_2022_12_54_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_06_2022_12_54__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_06_2022_13_01_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_06_2022_13_01__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_06_2022_13_02_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_06_2022_13_02__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask6/Person/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask6/Person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask7/Stream1/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask7/Stream2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask7/Stream2/People.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask4/bank/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask4/bank/Account.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask4/bank/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask4/bank/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask4/bank/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask4/bank/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask4/bank/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask4/bank/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask4/bank/UserServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module1/lists/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module1/lists/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask4/bank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask4/bank/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask4/bank/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask4/bank/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask4/bank/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask4/bank/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,39 +84,13 @@
       <recent name="HomeTask1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.module2.homeTask5.Main">
+  <component name="RunManager" selected="Application.module2.homeTask6.Person.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module2.homeTask4.lists.Main" />
+      <option name="MAIN_CLASS_NAME" value="module2.homeTask7.Stream2.Main" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module2.homeTask4.lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="module2.homeTask3.errorNotInt.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module2.homeTask3.errorNotInt.Main" />
-      <module name="Idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="module2.homeTask3.errorNotInt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="module2.homeTask3.myException.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module2.homeTask3.myException.Main" />
-      <module name="Idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="module2.homeTask3.myException.*" />
+          <option name="PATTERN" value="module2.homeTask7.Stream2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,13 +124,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="module2.homeTask6.Person.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module2.homeTask6.Person.Main" />
+      <module name="Idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module2.homeTask6.Person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="module2.homeTask7.Stream1.Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module2.homeTask7.Stream1.Stream" />
+      <module name="Idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module2.homeTask7.Stream1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.module2.homeTask6.Person.Main" />
+        <item itemvalue="Application.homeTask7.Stream2.Main" />
+        <item itemvalue="Application.module2.homeTask7.Stream1.Stream" />
         <item itemvalue="Application.module2.homeTask5.Main" />
         <item itemvalue="Application.module2.homeTask4.bank.Main" />
-        <item itemvalue="Application.module2.homeTask3.errorNotInt.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.module2.homeTask3.myException.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +239,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/src/module2/homeTask4/bank/Main.java</url>
-          <line>39</line>
+          <line>37</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -249,13 +254,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/src/module2/homeTask5/Main.java</url>
-          <line>75</line>
+          <line>74</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/src/module2/homeTask5/Main.java</url>
-          <line>65</line>
+          <line>64</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/src/module2/homeTask7/Stream2/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

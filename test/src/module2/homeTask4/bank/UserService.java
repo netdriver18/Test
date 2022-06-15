@@ -1,13 +1,8 @@
 package module2.homeTask4.bank;
 
-import java.util.List;
-import java.util.Map;
+import java.util.Collection;
 
-public interface UserService<Account, User> {
-
-
-
-}
+public interface UserService<A extends Account, U extends User>{};
 
 
 

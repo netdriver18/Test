@@ -1,11 +1,8 @@
 package module2.homeTask4.bank;
 
-import module2.homeTask4.lists.Persons;
-import org.jetbrains.annotations.NotNull;
-
 import java.util.*;
 
-public class Main implements UserService {
+public class Main implements UserService<Account, User> {
     public static void main(String[] args) {
         Account<Double> account1 = new Account<>(200.2, 123.3222222333);
         Account<String> account2 = new Account<>(3000.10, "1234567890666");
@@ -16,6 +13,7 @@ public class Main implements UserService {
         User user2 = new User("Jo Macos");
         User user3 = new User("Barbara Stow");
         User user4 = new User("Ada Bru");
+
 
         ArrayList<Account> accountArrayList = new ArrayList<>();
         ArrayList<User> userArrayList = new ArrayList<>();
@@ -31,8 +29,8 @@ public class Main implements UserService {
         userArrayList.add(user4);
 
         Collections.sort(userArrayList);
-        UserServiceImp.printListUsers(userArrayList);
-        UserServiceImp.printListAccounts(accountArrayList);
+        UserServiceImpl.printListUsers(userArrayList);
+        UserServiceImpl.printListAccounts(accountArrayList);
 
         Map<Account, User> map = new HashMap<>();
 
@@ -45,9 +43,10 @@ public class Main implements UserService {
             Iterator<Map.Entry<Account, User>> entries = map.entrySet().iterator();
             while (entries.hasNext()) {
                 Map.Entry<Account, User> entry = entries.next();
-                System.out.println("Name " + entry.getValue() + " has sum of tax: " + UserServiceImp.CalculateSumTax(entry.getKey()) + " on account" + entry.getKey());
+                System.out.println("Name " + entry.getValue() + " has sum of tax: " + UserServiceImpl.CalculateSumTax(entry.getKey()) + " on account" + entry.getKey());
             }
         }
 
     }
+
 }

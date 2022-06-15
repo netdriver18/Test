@@ -7,8 +7,6 @@ public class List {
     // Represent the number of values that were added to this list
     private int length = 0;
 
-    public List() {
-    }
 
     // Should add new value to the end of the list, increment length and extend array by x2 if needed
     public void add(String value) {

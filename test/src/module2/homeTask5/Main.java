@@ -35,7 +35,7 @@ public class Main {
         List<Account> accountList1 = new ArrayList<>();
 
         addListPeople(humanAccountMap, human2, null);
-       // removeList(humanAccountMap, human1, account21);
+        // removeList(humanAccountMap, human1, account21);
 
     }
 
@@ -50,16 +50,15 @@ public class Main {
     }
 
     private static void addListPeople(Map<Human, List<Account>> humanAccountMap, Human human, Account account) {
-        if (!(human == null) && !(account == null)&&(humanAccountMap.containsValue(account))) {
+        if (!(human == null) && !(account == null) && (humanAccountMap.containsValue(account))) {
             List<Account> k = humanAccountMap.get(human);
-            if (!(k==null)) {
+            if (!(k == null)) {
                 k.add(account);
 
             }
 
             printMap(humanAccountMap);
-        }
-        else {
+        } else {
             if (human == null) {
                 System.out.println("Key do not may contains null !");
             } else {

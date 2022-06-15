@@ -2,11 +2,18 @@ package module2.homeTask4.bank;
 
 import org.jetbrains.annotations.NotNull;
 
+import java.util.Collection;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class UserServiceImp implements UserService {
+public class UserServiceImpl implements UserService<Account,User> {
 
+    private Map<Account, User> accounts = new HashMap<>();
+
+    public void addAccount(Account account, User user){
+        accounts.put(account,user);
+    }
     public static <User> void printListUsers(List<User> list) {
         System.out.println(list);
 
