@@ -1,4 +1,7 @@
-package module2.homeTask5;
+package module2.homeTask5.humen;
+
+import module2.homeTask5.humen.Account;
+import module2.homeTask5.humen.Human;
 
 import java.util.ArrayList;
 import java.util.HashMap;

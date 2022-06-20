@@ -1,4 +1,4 @@
-package module2.homeTask5;
+package module2.homeTask5.humen;
 
 import java.util.Objects;
 

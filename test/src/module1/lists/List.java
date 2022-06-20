@@ -1,5 +1,5 @@
 package module1.lists;
-public class List {
+public class List<A> {
 
     // Represent values in this list
     private String[] values = new String[4];

@@ -3,9 +3,9 @@ package module2.homeTask7.Stream2;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.Comparator;
-import java.util.Objects ;
+import java.util.Objects;
 
-public class People  {
+public class People {
     private String name;
     private Integer age;
     private String sex;
@@ -44,7 +44,6 @@ public class People  {
                 ", sex='" + sex + '\'' +
                 '}';
     }
-
 
 
     public String getName() {
