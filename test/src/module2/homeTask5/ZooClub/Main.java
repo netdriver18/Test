@@ -1,4 +1,4 @@
-package module2.homeTask5.zooclub;
+package module2.homeTask5.ZooClub;
 
 import java.util.HashMap;
 import java.util.List;
@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Map<String, List<String>> personListHashMap = new HashMap<>();
+        Map<Person, List<Animal>> personListHashMap = new HashMap<>();
         ZooClub zooClub = new ZooClub(personListHashMap);
         Scanner scanner = new Scanner(System.in);
         boolean ExitFlag = false;
@@ -76,4 +76,3 @@ public class Main {
         }
     }
 }
-

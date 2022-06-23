@@ -28,7 +28,7 @@ public class Stream {
         }
         String str1 = list.stream().filter(e -> list.equals("Three"))
                 .findAny()
-                .orElse("Not such elements ");
+                .orElseThrow(()->new RuntimeException("Not such elements "));
         System.out.println(str1);
 
         list.stream()
