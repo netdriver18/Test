@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="Added home task 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,7 +263,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/src/module3/homeTask1/Main.java</url>
-          <line>72</line>
+          <line>79</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>

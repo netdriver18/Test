@@ -29,13 +29,14 @@ public class Main {
                 System.out.println("Input the month: ");
                 String monthInput = scanner.next();
                 boolean isMonth;
-                for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
-                    if (monthOfYear == Enum.MonthOfYear.valueOf(monthInput)) {
-                        System.out.println("There is such a month!");
-                        isMonth = true;
+                try {
+                    for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
+                        if (monthOfYear == Enum.MonthOfYear.valueOf(monthInput)) {
+                            System.out.println("There is such a month!");
+                            isMonth = true;
+                        }
                     }
-                }
-                if (isMonth = false) {
+                } catch (Exception e) {
                     System.out.println("There is not such a month!");
                 }
             } else if (flag.equals("2")) {
