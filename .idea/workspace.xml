@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="Added home task 3">
-      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/ZooClub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module2/homeTask6/Optional/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask1/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/ZooClub.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/ZooClub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/ZooClubInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/ZooClubInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask7/Stream1/Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask7/Stream1/Stream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/zooclub/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/zooclub/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/zooclub/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/zooclub/ZooClub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/zooclub/ZooClubInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/ZooClubInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask7/Stream1/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask7/Stream1/Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/ZooClub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/ZooClubInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/ZooClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/ZooClub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/ZooClubInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/ZooClubInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,21 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowRun.ShowToolbar": "false",
-    "last_opened_file_path": "D:/backup/Idea/test/out/production/test",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/backup/Idea/test/out/production/test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\backup\Idea\test\out\production\test" />
@@ -88,13 +84,13 @@
       <recent name="module2.homeTask5.ZooClub" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module2.homeTask5.ZooClub.Main" />
+  <component name="RunManager" selected="Application.module3.homeTask1.Main">
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module2.homeTask7.Stream1.Stream" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module2.homeTask5.ZooClub.*" />
+          <option name="PATTERN" value="module2.homeTask7.Stream1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="module2.homeTask6.Person.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module2.homeTask6.Person.Main" />
+    <configuration name="module3.homeTask1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.homeTask1.Main" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module2.homeTask6.Person.*" />
+          <option name="PATTERN" value="module3.homeTask1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.module3.homeTask1.Main" />
+        <item itemvalue="Application.Stream" />
         <item itemvalue="Application.module2.homeTask6.Optional.Main" />
         <item itemvalue="Application.module2.homeTask5.zooclubString.Main" />
         <item itemvalue="Application.module2.homeTask5.humen.Main" />
-        <item itemvalue="Application.module2.homeTask6.Person.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -267,11 +263,6 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/src/module2/homeTask7/Stream2/Main.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/src/module2/homeTask5/zooclubString/Main.java</url>
           <line>39</line>
           <option name="timeStamp" value="27" />
@@ -280,6 +271,16 @@
           <url>file://$PROJECT_DIR$/test/src/module2/homeTask5/zooclubString/ZooClub.java</url>
           <line>44</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/src/module3/homeTask1/Main.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/src/module3/homeTask1/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

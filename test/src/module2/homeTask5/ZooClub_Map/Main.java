@@ -1,4 +1,4 @@
-package module2.homeTask5.ZooClub;
+package module2.homeTask5.ZooClub_Map;
 
 import java.util.HashMap;
 import java.util.List;

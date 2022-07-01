@@ -1,6 +1,4 @@
-package module2.homeTask5.ZooClub;
-
-import module2.homeTask4.lists.Persons;
+package module2.homeTask5.ZooClub_Map;
 
 import java.util.*;
 
@@ -34,7 +32,8 @@ public class ZooClub implements ZooClubInterface {
         Iterator<Map.Entry<Person, List<Animal>>> entries = map.entrySet().iterator();
         while (entries.hasNext()) {
             Map.Entry<Person, List<Animal>> entry = entries.next();
-            System.out.println("Person: " + entry.getKey().toString() + " has animals: " + entry.getValue().toString());
+            System.out.println("Person: " + entry.getKey().toString() + " has animals: "
+                    + entry.getValue().toString());
         }
     }
 
