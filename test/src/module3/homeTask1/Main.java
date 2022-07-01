@@ -30,7 +30,7 @@ public class Main {
                 String monthInput = scanner.next();
                 boolean isMonth;
                 for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
-                    if (monthOfYear.name().equals(monthInput)) {
+                    if (monthOfYear == Enum.MonthOfYear.valueOf(monthInput)) {
                         System.out.println("There is such a month!");
                         isMonth = true;
                     }
