@@ -28,22 +28,31 @@ public class Main {
             if (flag.equals("1")) {
                 System.out.println("Input the month: ");
                 String monthInput = scanner.next();
-                boolean isMonth;
-                try {
-                    for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
-                        if (monthOfYear == Enum.MonthOfYear.valueOf(monthInput)) {
-                            System.out.println("There is such a month!");
-                            isMonth = true;
-                        }
+                boolean isMonth = false;
+                //try {
+                //    for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
+                //        if (monthOfYear == Enum.MonthOfYear.valueOf(monthInput)) {
+                //            System.out.println("There is such a month!");
+                //            isMonth = true;
+                //        }
+                //    }
+                //} catch (Exception e) {
+                //    System.out.println("There is not such a month!");
+                // }
+                for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
+                    if (monthOfYear.name().equalsIgnoreCase(monthInput)) {
+                        System.out.println("There is such a month!");
+                        isMonth = true;
                     }
-                } catch (Exception e) {
+                }
+                if (!(isMonth)) {
                     System.out.println("There is not such a month!");
                 }
             } else if (flag.equals("2")) {
                 System.out.println("Input the seasons: ");
                 String seasonsString = scanner.next();
                 for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
-                    if (monthOfYear.getSeasons().equals(seasonsString)) {
+                    if (monthOfYear.getSeasons().equalsIgnoreCase(seasonsString)) {
                         System.out.println(monthOfYear);
                     }
                 }
@@ -77,7 +86,7 @@ public class Main {
                 Enum.Seasons[] enumSeasons = Enum.Seasons.values();
                 int index = 0;
                 for (Enum.Seasons elemSeasons : enumSeasons) {
-                    if (elemSeasons.name().equals(inputSeasons)) {
+                    if (elemSeasons.name().equalsIgnoreCase(inputSeasons)) {
                         index = elemSeasons.ordinal();
                         break;
                     }
@@ -90,7 +99,7 @@ public class Main {
                 Enum.Seasons[] enumSeasons = Enum.Seasons.values();
                 int index = 0;
                 for (Enum.Seasons elemSeasons : enumSeasons) {
-                    if (elemSeasons.name().equals(inputSeasons)) {
+                    if (elemSeasons.name().equalsIgnoreCase(inputSeasons)) {
                         index = elemSeasons.ordinal();
                         break;
                     }
@@ -116,7 +125,7 @@ public class Main {
                 System.out.println("Input the month: ");
                 String monthInput = scanner.next();
                 for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
-                    if (monthOfYear.name().equals(monthInput)) {
+                    if (monthOfYear.name().equalsIgnoreCase(monthInput)) {
                         if (monthOfYear.getDay() % 2 == 0) {
                             System.out.println("The number of days is even");
                         } else {

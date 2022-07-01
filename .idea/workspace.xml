@@ -263,8 +263,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/src/module3/homeTask1/Main.java</url>
-          <line>79</line>
-          <option name="timeStamp" value="32" />
+          <line>9</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
