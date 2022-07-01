@@ -68,6 +68,7 @@ public class Main {
                     System.out.println("The person is not exists in base");
             } else if (flag.equals("E")) {
                 System.out.println("Exit!");
+                ExitFlag = true;
             } else if (flag.equals("K")) {
                 zooClub.printMap(personListHashMap);
             }
