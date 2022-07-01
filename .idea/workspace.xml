@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="Added home task 3">
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask1/Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/ZooClub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module2/homeTask5/zooclub/ZooClubInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/ZooClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/ZooClub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub/ZooClubInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/ZooClubInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module2/homeTask5/ZooClub_Map/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,13 +263,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/src/module3/homeTask1/Main.java</url>
-          <line>71</line>
+          <line>72</line>
           <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/src/module3/homeTask1/Main.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

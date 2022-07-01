@@ -23,6 +23,7 @@ public class Main {
             System.out.println("8 - Display all months with an even number of days");
             System.out.println("9 - Display all months with an odd number of days");
             System.out.println("10 - Display whether the month entered from the console has an even number of days");
+            System.out.println("11 - Exit");
             String flag = scanner.next();
             if (flag.equals("1")) {
                 System.out.println("Input the month: ");
@@ -122,6 +123,8 @@ public class Main {
                         }
                     }
                 }
+            } else if (flag.equals("11")) {
+                ExitFlag = true;
             }
         }
     }
