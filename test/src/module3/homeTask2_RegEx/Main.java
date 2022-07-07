@@ -14,32 +14,23 @@ import java.util.regex.Pattern;
 public class Main {
     public static void main(String[] args) {
 
-        AllUsersTextBeginningA();
+       // AllUsersTextBeginningA();
         ValidateMail();
-        ChangeString();
+       // ChangeString();
 
     }
 
     private static void ValidateMail() {
         ArrayList<String> stringsMas = new ArrayList<>();
-        Scanner scanner = null;
-        try {
-            scanner = new Scanner(new FileReader((new File("D:\\backup\\Java\\2\\124.txt"))));
-            scanner.useDelimiter("\\W");
-            while (scanner.hasNextLine()) {
-                String userText = scanner.nextLine();
-                Pattern pattern = Pattern.compile("@gmail.com$");
-                Matcher matcher = pattern.matcher(userText);
-                while (matcher.find()) {
-                    stringsMas.add(userText);
-                }
-            }
-            System.out.println(stringsMas);
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
-        } finally {
-            scanner.close();
+        Scanner scanner = new Scanner(System.in);
+        String userText = scanner.nextLine();
+
+        Pattern pattern = Pattern.compile("[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}");
+        Matcher matcher = pattern.matcher(userText);
+        while (matcher.find()) {
+            stringsMas.add(matcher.group());
         }
+        System.out.println(stringsMas);
     }
 
     private static void AllUsersTextBeginningA() {

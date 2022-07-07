@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="Added home task 3">
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask2_RegEx/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask1/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask1_Enum/Enum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask1_Enum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask2_RegEx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask2_RegEx/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,6 +265,11 @@
           <url>file://$PROJECT_DIR$/test/src/module3/homeTask1_Enum/Main.java</url>
           <line>9</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/src/module3/homeTask2_RegEx/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
