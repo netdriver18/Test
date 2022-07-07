@@ -1,10 +1,6 @@
-package module3.homeTask1;
+package module3.homeTask1_Enum;
 
 
-import module2.homeTask5.humen.Account;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -29,16 +25,15 @@ public class Main {
                 System.out.println("Input the month: ");
                 String monthInput = scanner.next();
                 boolean isMonth = false;
-                //try {
-                //    for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
-                //        if (monthOfYear == Enum.MonthOfYear.valueOf(monthInput)) {
-                //            System.out.println("There is such a month!");
-                //            isMonth = true;
-                //        }
-                //    }
-                //} catch (Exception e) {
-                //    System.out.println("There is not such a month!");
-                // }
+                try {
+                    for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
+                        if (monthOfYear == Enum.MonthOfYear.valueOf(monthInput)) {
+                            System.out.println("There is such a month!");
+                        }
+                    }
+                } catch (Exception e) {
+                    System.out.println("There is not such a month!");
+                }
                 for (Enum.MonthOfYear monthOfYear : Enum.MonthOfYear.values()) {
                     if (monthOfYear.name().equalsIgnoreCase(monthInput)) {
                         System.out.println("There is such a month!");

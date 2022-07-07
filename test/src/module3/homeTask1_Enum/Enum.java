@@ -1,4 +1,4 @@
-package module3.homeTask1;
+package module3.homeTask1_Enum;
 
 public class Enum {
 
@@ -20,8 +20,8 @@ public class Enum {
         NOVEMBER(Seasons.AUTUMN, 31),
         DECEMBER(Seasons.WINTER, 30);
 
-        Seasons seasons;
-        Integer day;
+       private Seasons seasons;
+       private int day;
 
         public String getSeasons() {
             return seasons.name();

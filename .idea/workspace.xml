@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="Added home task 3">
+      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask2_RegEx/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask1/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask1_Enum/Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask1_Enum/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +75,13 @@
       <recent name="module2.homeTask5.ZooClub" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.module3.homeTask1.Main">
-    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module2.homeTask7.Stream1.Stream" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.homeTask2_RegEx.Main" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module2.homeTask7.Stream1.*" />
+          <option name="PATTERN" value="module3.homeTask2_RegEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="module2.homeTask5.humen.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module2.homeTask5.humen.Main" />
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module2.homeTask7.Stream1.Stream" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module2.homeTask5.humen.*" />
+          <option name="PATTERN" value="module2.homeTask7.Stream1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="module3.homeTask1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module3.homeTask1.Main" />
+    <configuration name="module3.homeTask1_Enum.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.homeTask1_Enum.Main" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module3.homeTask1.*" />
+          <option name="PATTERN" value="module3.homeTask1_Enum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.module3.homeTask1.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.module3.homeTask1_Enum.Main" />
         <item itemvalue="Application.Stream" />
         <item itemvalue="Application.module2.homeTask6.Optional.Main" />
         <item itemvalue="Application.module2.homeTask5.zooclubString.Main" />
-        <item itemvalue="Application.module2.homeTask5.humen.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -262,9 +264,9 @@
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/src/module3/homeTask1/Main.java</url>
+          <url>file://$PROJECT_DIR$/test/src/module3/homeTask1_Enum/Main.java</url>
           <line>9</line>
-          <option name="timeStamp" value="34" />
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
