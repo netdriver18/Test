@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="Added home task 3">
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask3_Reflection/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask3_Reflection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Anonymous/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Anonymous/CarWorkMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Anonymous/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Serialize/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Serialize/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Serialize/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module3/homeTask2_RegEx/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module3/homeTask2_RegEx/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/InnerClasses/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/InnerClasses/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +73,7 @@
       <recent name="module2.homeTask5.ZooClub" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.module3.homeTask_4_Anonymous.Serialize.Main">
+  <component name="RunManager" selected="Application.module3.homeTask_4_Anonymous.InnerClasses.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="module3.homeTask2_RegEx.Main" />
       <module name="Idea" />
@@ -95,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="module3.homeTask1_Enum.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module3.homeTask1_Enum.Main" />
+    <configuration name="module3.homeTask3_Reflection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.homeTask3_Reflection.Main" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module3.homeTask1_Enum.*" />
+          <option name="PATTERN" value="module3.homeTask3_Reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="module3.homeTask3_Reflection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module3.homeTask3_Reflection.Main" />
+    <configuration name="module3.homeTask_4_Anonymous.InnerClasses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.homeTask_4_Anonymous.InnerClasses.Main" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module3.homeTask3_Reflection.*" />
+          <option name="PATTERN" value="module3.homeTask_4_Anonymous.InnerClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.module3.homeTask_4_Anonymous.InnerClasses.Main" />
         <item itemvalue="Application.module3.homeTask_4_Anonymous.Serialize.Main" />
         <item itemvalue="Application.module3.homeTask_4_Aonimus.Anonymous.Main" />
         <item itemvalue="Application.module3.homeTask3_Reflection.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.module3.homeTask1_Enum.Main" />
       </list>
     </recent_temporary>
   </component>
