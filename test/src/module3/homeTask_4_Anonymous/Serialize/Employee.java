@@ -5,7 +5,7 @@ import java.io.*;
 public class Employee implements Serializable {
     private String name;
     private int id;
-    private double salary;
+    private transient double salary;
 
     public Employee() {
     }
@@ -22,6 +22,15 @@ public class Employee implements Serializable {
 
     public void setId(int id) {
         this.id = id;
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "name='" + name + '\'' +
+                ", id=" + id +
+                ", salary=" + salary +
+                '}';
     }
 
     public void setSalary(double salary) {

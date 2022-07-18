@@ -1,10 +1,11 @@
 package module3.homeTask_4_Anonymous.Serialize;
 
 import java.io.*;
+import java.util.function.Consumer;
 
 public class Methods {
-    public void serializeObject(Employee employee) throws IOException {
-        FileOutputStream fileOutputStream = new FileOutputStream("D:/backup/Idea/outputObject.txt");
+    public static void  serializeObject(Employee employee, String pathToFile) throws IOException {
+        FileOutputStream fileOutputStream = new FileOutputStream(pathToFile);
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(fileOutputStream);
         objectOutputStream.writeObject(employee);
         fileOutputStream.flush();
@@ -13,14 +14,15 @@ public class Methods {
         System.out.println("Object was serialized.....");
     }
 
-    public Employee deserializeObject(String PathToFile) throws IOException, ClassNotFoundException {
-        FileInputStream fileInputStream = new FileInputStream(PathToFile);
-        ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
-        Object object = (Employee) objectInputStream.readObject();
-        fileInputStream.close();
-        objectInputStream.close();
+    public static Employee deserializeObject(String pathToFile)  {
+        Object object = null;
+        try (FileInputStream fileInputStream = new FileInputStream(pathToFile);
+             ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream)) {
+            object = (Employee) objectInputStream.readObject();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         System.out.println("Object was deserialized....");
         return (Employee) object;
-
     }
 }
