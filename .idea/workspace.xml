@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="Added home task 3">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/production/Idea/module3/homeTask_5_Threads/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/production/Idea/module3/sql/sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/RunnableThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputObject.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outputObject.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module1/Lists/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module1/Lists/List.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module3/homeTask_4_Anonymous/Serialize/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module3/homeTask_4_Anonymous/Serialize/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module3/homeTask_4_Anonymous/Serialize/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module3/homeTask_4_Anonymous/Serialize/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/Idea/module3/homeTask_4_Anonymous/Serialize/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/Idea/module3/homeTask_4_Anonymous/Serialize/Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module1/lists/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module1/lists/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Serialize/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Serialize/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Serialize/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Serialize/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Serialize/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask_4_Anonymous/Serialize/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,22 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/backup/Idea/test/out/production/test&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "last_opened_file_path": "D:/backup/Idea/test/out/production/test",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\backup\Idea\test\out\production\test" />
@@ -83,13 +78,13 @@
       <recent name="module2.homeTask5.ZooClub" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.module3.homeTask_4_Anonymous.Serialize.Main">
+  <component name="RunManager" selected="Application.module3.homeTask_5_Threads.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module3.homeTask2_RegEx.Main" />
+      <option name="MAIN_CLASS_NAME" value="module3.homeTask_5_Threads.Main" />
       <module name="Idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module3.homeTask2_RegEx.*" />
+          <option name="PATTERN" value="module3.homeTask_5_Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.module3.homeTask_5_Threads.Main" />
         <item itemvalue="Application.module3.homeTask_4_Anonymous.Serialize.Main" />
         <item itemvalue="Application.module3.homeTask_4_Anonymous.InnerClasses.Main" />
         <item itemvalue="Application.module3.homeTask_4_Aonimus.Anonymous.Main" />
         <item itemvalue="Application.module3.homeTask3_Reflection.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +271,20 @@
           <line>29</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/Main.java</url>
+          <line>22</line>
+          <properties field="size" class="module3.homeTask_5_Threads.Main.MyThread" />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
       </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
