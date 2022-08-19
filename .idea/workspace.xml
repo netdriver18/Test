@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fabddd-ed33-4d36-b977-bcdcdb43b27a" name="Changes" comment="Added home task 3">
-      <change afterPath="$PROJECT_DIR$/test/out/production/Idea/module3/homeTask_5_Threads/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/out/production/Idea/module3/sql/sql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/RunnableThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/module3/sql/sql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/module3/sql/sql.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowRun.ShowToolbar": "false",
-    "last_opened_file_path": "D:/backup/Idea/test/out/production/test",
+    "last_opened_file_path": "D:/backup/Idea",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -78,7 +74,7 @@
       <recent name="module2.homeTask5.ZooClub" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.module3.homeTask_5_Threads.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="module3.homeTask_5_Threads.Main" />
       <module name="Idea" />
@@ -146,7 +142,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.module3.homeTask_5_Threads.Main" />
         <item itemvalue="Application.module3.homeTask_4_Anonymous.Serialize.Main" />
         <item itemvalue="Application.module3.homeTask_4_Anonymous.InnerClasses.Main" />
         <item itemvalue="Application.module3.homeTask_4_Aonimus.Anonymous.Main" />
@@ -270,6 +265,11 @@
           <url>file://$PROJECT_DIR$/test/src/module3/homeTask2_RegEx/Main.java</url>
           <line>29</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/MyThread.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/test/src/module3/homeTask_5_Threads/Main.java</url>
