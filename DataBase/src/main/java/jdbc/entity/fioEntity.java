@@ -1,6 +1,7 @@
 package jdbc.entity;
 
 import lombok.*;
+
 import javax.persistence.*;
 
 @Setter
@@ -9,12 +10,15 @@ import javax.persistence.*;
 @NoArgsConstructor
 @ToString
 @Entity
-@Table(name = "book")
-public class LibraryEntity {
+@Table(name = "fio")
+public class fioEntity {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id;
-
-
+    private int id_book;
+    @Column
+    private String name_author;
+    @Column
+    private String famly_author;
 
 }

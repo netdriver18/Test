@@ -7,8 +7,8 @@
     <persistence-unit name="AppStorePersistence" transaction-type="RESOURCE_LOCAL">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
-        <class>LibraryEntity.Shipment</class>
-        <class>LibraryEntity.Library</class>
+        <class>book</class>
+        <class>fio</class>
 
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" /> <!-- DB Driver -->
@@ -16,7 +16,11 @@
             <property name="javax.persistence.jdbc.user" value="postgres" /> <!-- DB User -->
             <property name="javax.persistence.jdbc.password" value="123" /> <!-- DB Password -->
 
-            <property name="hibernate.dialect" value="org.hibernate.dialect.PostgresSQLDialect"/> <!-- DB Dialect -->
+            <property name="hibernate.connections.driver" value="org.postgresql.Driver" /> <!-- DB Driver -->
+            <property name="hibernate.connections.url" value="jdbc:postgresql://localhost:5432/Library" /> <!-- BD Mane -->
+            <property name="hibernate.connections.user" value="postgres" /> <!-- DB User -->
+            <property name="hibernate.connections.password" value="123" /> <!-- DB Password -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.ProgressDialect"/> <!-- DB Dialect -->
             <property name="hibernate.hbm2ddl.auto" value="update" /> <!-- create / create-drop / update -->
 
             <property name="hibernate.show_sql" value="true" /> <!-- Show SQL in console -->
